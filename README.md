@@ -1,2 +1,2 @@
 # BachelorThesis
-My Bachelor Thesis on Computer vision with ORB-Slam technology
+My Bachelor Thesis on computer vision with ORB-Slam technology
